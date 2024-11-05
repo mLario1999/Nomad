@@ -364,3 +364,5 @@ FodyWeavers.xsd
 
 # Additional folders and files to ignore
 .vcxproj.user
+bin/
+bin-int/
